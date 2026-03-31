@@ -25,7 +25,7 @@ The app runs a local Flask server (`app.py`) that communicates with Telegram via
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/telegram-group-leaver.git
+git clone https://github.com/jakenguyen2408-vn/telegram-group-leaver.git
 cd telegram-group-leaver
 
 # Install dependencies
