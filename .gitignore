@@ -1,0 +1,26 @@
+# Sensitive / runtime files - NEVER commit these
+config.json
+*.session
+*.session-journal
+
+# Build output
+dist/
+build/
+*.spec
+
+# Node
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db

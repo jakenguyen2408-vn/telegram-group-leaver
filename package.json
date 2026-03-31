@@ -1,0 +1,11 @@
+{
+  "name": "telegram-group-leaver",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.21.0",
+    "cors": "^2.8.5",
+    "telegram": "^2.26.8",
+    "input": "^1.0.1"
+  }
+}
